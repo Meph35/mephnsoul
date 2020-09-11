@@ -1,4 +1,4 @@
-﻿namespace SupportAIO.Common
+﻿namespace MephSupportAIO.Common
 {
     using EnsoulSharp;
     using EnsoulSharp.SDK;
