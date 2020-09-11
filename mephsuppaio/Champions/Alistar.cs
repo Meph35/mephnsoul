@@ -4,14 +4,14 @@ using EnsoulSharp.SDK.MenuUI.Values;
 using EnsoulSharp.SDK.Utility;
 
 
-using Extensions = SupportAIO.Common.Extensions;
+using Extensions = MephSupportAIO.Common.Extensions;
 using Color = System.Drawing.Color;
 using Menu = EnsoulSharp.SDK.MenuUI.Menu;
 using Spell = EnsoulSharp.SDK.Spell;
 using System.Windows.Forms;
 using static EnsoulSharp.SDK.Gapcloser;
 
-namespace SupportAIO.Champions
+namespace MephSupportAIO.Champions
 {
     class Alistar : Common.Champion
     {
