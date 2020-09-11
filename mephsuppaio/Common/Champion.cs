@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace SupportAIO.Common
+namespace MephSupportAIO.Common
 {
     using EnsoulSharp;
     using Menu = EnsoulSharp.SDK.MenuUI.Menu;
